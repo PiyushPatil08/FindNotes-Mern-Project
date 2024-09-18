@@ -1,4 +1,4 @@
-# FindNotes-Mern-Project
+# FindNotes - Notes Sharing Platform
 
 A collaborative platform where users can upload, share, and download notes across different subjects and topics. This project aims to provide students and professionals an easy way to access shared knowledge and materials in an organized manner.
 
